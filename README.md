@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Britt-B [Brittany]
-- 👀 I’m interested in embedded systems, low level programming, and circuit design.
-- 🌱 I’m currently learning internet of things, software engineering, ethics in computing, and programming language concepts.
-- 💞️ I’m looking to collaborate on a small dedicated team interested in optimization.
+- 👀 Interested in embedded systems, low level programming, and game development.
+- 🌱 Recently finished my B.S. in Computer Science.
+- 💞️ Looking to collaborate with a dedicated team with a goal for optimization.
 - 📫 How to reach me ...
 
 <!---
