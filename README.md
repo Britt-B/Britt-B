@@ -3,6 +3,7 @@
 - 🌱 Recently finished my B.S. in Computer Science.
 - 💞️ Looking to collaborate with a dedicated team with a goal for optimization.
 - 📫 write.brittany.bergeron@gmail.com
+- 🤝 https://www.linkedin.com/in/brittany-bergeron-555552119/
 
 <!---
 Britt-B/Britt-B is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
