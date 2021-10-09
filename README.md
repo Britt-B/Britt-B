@@ -1,3 +1,5 @@
+###### some READMEs are under construction, they will be up within a few days!
+
 ## 👋 Hi, I’m @Britt-B [Brittany]
 - 👀 Interested in embedded systems, low level programming, and game development.
 - 🌱 Recently finished my B.S. in Computer Science.
